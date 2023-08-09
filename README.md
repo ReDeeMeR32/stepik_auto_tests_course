@@ -1,4 +1,4 @@
 # stepik_auto_tests_course
 Lessons
 
-yoyoyo
+Великолепно пройденный курс по автоматизации тестирования на Python
